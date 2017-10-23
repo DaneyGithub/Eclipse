@@ -15,6 +15,10 @@ public class MyClass {
 		//This will be in the new branch
 		System.out.println("New Branch");
 		
+		
+		//Exclusive Master
+		System.out.println("Only in Master");
+		
 
 	}
 
