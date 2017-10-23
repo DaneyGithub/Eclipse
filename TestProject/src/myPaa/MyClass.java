@@ -8,6 +8,9 @@ public class MyClass {
 		//Comment and the next line added
 		System.out.println("This is from Github");
 		System.out.println("Test edited later");
+		
+		System.out.println("Eclipse added more");
+		
 
 	}
 
