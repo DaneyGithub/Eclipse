@@ -3,3 +3,8 @@ anotherline
 
 
 here is the full change from vim
+
+
+another file is updated
+
+from nano
