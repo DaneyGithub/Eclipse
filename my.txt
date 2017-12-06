@@ -6,5 +6,5 @@ here is the full change from vim
 
 
 another file is updated
-
+edited here
 from nano
